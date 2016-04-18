@@ -1,0 +1,19 @@
+{
+  "name": "mynpmtest",
+  "version": "1.0.0",
+  "description": "A Descruption ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pauljgraham/hello-world.git"
+  },
+  "author": "Paul Graham <Paul.Graham@adp.com> (http://www.adp.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pauljgraham/hello-world/issues"
+  },
+  "homepage": "https://github.com/Pauljgraham/hello-world#readme"
+}
